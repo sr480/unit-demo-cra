@@ -23,5 +23,3 @@ export const Application: FC = () => {
     </div>
   );
 };
-
-// onion
